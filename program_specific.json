@@ -1,0 +1,30 @@
+{
+  "uta-nursing": {
+    "program_name": "UTA Nursing",
+    "program_tuition": "$12,000",
+    "program_duration": "18 months",
+    "program_start_date": "June 20, 2020",
+    "program_deadline": "May 20, 2020"
+  },
+  "lsus-business": {
+    "program_name": "LSUS Business",
+    "program_tuition": "$11,000",
+    "program_duration": "16 months",
+    "program_start_date": "June 21, 2020",
+    "program_deadline": "May 21, 2020"
+  },
+  "lamar-education": {
+    "program_name": "UTA Nursing",
+    "program_tuition": "$10,000",
+    "program_duration": "14 months",
+    "program_start_date": "June 22, 2020",
+    "program_deadline": "May 22, 2020"
+  },
+  "state-education": {
+    "program_name": "State Education",
+    "program_tuition": "$9,000",
+    "program_duration": "12 months",
+    "program_start_date": "June 23, 2020",
+    "program_deadline": "May 23, 2020"
+  }
+}
