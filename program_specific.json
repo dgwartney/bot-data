@@ -4,31 +4,35 @@
     "program_tuition": "$12,000",
     "program_duration": "18 months",
     "program_start_date": "June 20, 2020",
-    "program_deadline": "May 20, 2020"
-    "program_next_deadline": "August 20, 2020"
+    "program_deadline": "May 20, 2020",
+    "program_next_deadline": "August 20, 2020",
+    "program_requirements": "UTA Nursing requirements"
   },
   "lsus-business": {
     "program_name": "LSUS Business",
     "program_tuition": "$11,000",
     "program_duration": "16 months",
     "program_start_date": "June 21, 2020",
-    "program_deadline": "May 21, 2020"
-    "program_next_deadline": "August 21, 2020"
+    "program_deadline": "May 21, 2020",
+    "program_next_deadline": "August 21, 2020",
+    "program_requirements": "LSUS Business requirements"
   },
   "lamar-education": {
     "program_name": "Lamar Education",
     "program_tuition": "$10,000",
     "program_duration": "14 months",
     "program_start_date": "June 22, 2020",
-    "program_deadline": "May 22, 2020"
-    "program_next_deadline": "August 22, 2020"
+    "program_deadline": "May 22, 2020",
+    "program_next_deadline": "August 22, 2020",
+    "program_requirements": "Lamar Education requirements"
   },
   "state-education": {
     "program_name": "State Education",
     "program_tuition": "$9,000",
     "program_duration": "12 months",
     "program_start_date": "June 23, 2020",
-    "program_deadline": "May 23, 2020"
-    "program_next_deadline": "August 23, 2020"
+    "program_deadline": "May 23, 2020",
+    "program_next_deadline": "August 23, 2020",
+    "program_requirements": "State Education requirements"
   }
 }
